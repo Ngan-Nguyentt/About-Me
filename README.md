@@ -1,0 +1,63 @@
+<h1 align="center">Hi, I'm Ngan Nguyen 👋</h1>
+
+<h3 align="center">Data &amp; Business Intelligence Analyst · Ottawa, ON 🇨🇦</h3>
+
+<p align="center">
+  I turn messy, multi-table data into clean models, interactive dashboards, and decision-ready insight —<br/>
+  <em>measured by the decisions it changes, not the charts it makes.</em>
+</p>
+
+<p align="center">
+  <a href="https://ngan-nguyentt.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ngan--nguyentt.github.io-0b3d63?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ngan-nguyen-2022a4358/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ngan%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nguy1174@algonquinlive.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 🌱 A little about me
+
+- 🎓 **Business Intelligence Systems Infrastructure** graduate-certificate student at **Algonquin College** *(Jan – Aug 2026)*.
+- 🏅 **Dean's Honour List · GPA 3.83 / 4.0** from my prior Supply Chain Management – Global graduate certificate.
+- 🔭 I build **SQL + Python + Power BI** projects that start from a real business question and end with a decision someone can act on.
+- 🤝 **Open to a Fall 2026 co-op** in Data Analytics, Business Intelligence, or Database Administration.
+
+### 🛠️ My toolbox
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Languages & libraries:** SQL · Python (pandas, scikit-learn, matplotlib)
+**Visualization:** Power BI · Tableau · Excel · DAX
+**Databases & modeling:** SQL Server · MySQL · star-schema · normalization
+**Workflow:** Jupyter · Alteryx · RapidMiner · Streamlit · Git · AWS
+
+### 📌 Featured projects
+
+| Project | What it answers | Stack |
+| :--- | :--- | :--- |
+| 🏥 [Hospital Database Management System](https://github.com/Ngan-Nguyentt/hospital-database-management-system) | Where are patient retention, bed occupancy, and medicine stock quietly costing the hospital? | `SQL Server` · `T-SQL` · `Power BI` |
+| 🚦 [Collision Risk Predictive Analysis](https://github.com/Ngan-Nguyentt/collision-risk-prediction-toronto) | What makes a Toronto crash turn fatal — and where should safety spending go? | `Python` · `scikit-learn` |
+| 💸 [Personal Finance Behaviour Analysis](https://github.com/Ngan-Nguyentt/personal-finance-behaviour-analysis) | Why do budgets fail, and can an app warn people before they overspend? | `Python` · `pandas` · `Django` |
+| 📈 [Stock Market Intelligence Dashboard](https://github.com/Ngan-Nguyentt/stock-market-risk-analytics-powerbi) | Can an everyday investor read five mega-cap stocks the way an analyst would? | `Power BI` · `Power Query` · `DAX` |
+| 🛒 [Superstore Sales Performance](https://github.com/Ngan-Nguyentt/superstore-sales-performance-dashboard-powerbi) | Which regions and products are truly profitable — not just high-revenue? | `Power BI` · `DAX` |
+| 💼 [Sales Performance Dashboard](https://github.com/Ngan-Nguyentt/sales-performance-dashboard-powerbi) | Sales grew every year — so why didn't profit follow? | `Power BI` · `Data Modeling` |
+
+➡️ **See them live with the stories behind them:** **[ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)**
+
+### 📫 Find me
+
+- 🌐 **Portfolio:** [ngan-nguyentt.github.io](https://ngan-nguyentt.github.io/)
+- 💼 **LinkedIn:** [in/ngan-nguyen](https://www.linkedin.com/in/ngan-nguyen-2022a4358/)
+- ✉️ **Email:** [nguy1174@algonquinlive.com](mailto:nguy1174@algonquinlive.com)
+
+<p align="center"><sub>Thanks for stopping by — let's turn data into decisions. ✨</sub></p>
